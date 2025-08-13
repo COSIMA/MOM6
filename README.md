@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> **This repository has been archived and is read-only. The MOM6 codebase used in ACCESS models can be found at https://github.com/ACCESS-NRI/MOM6**
+
 [![Read The Docs Status](https://readthedocs.org/projects/mom6/badge/?version=main)](https://mom6.readthedocs.io/en/main/?badge=main)
 [![codecov](https://codecov.io/gh/NOAA-GFDL/MOM6/branch/dev/gfdl/graph/badge.svg?token=uF8SVydCdp)](https://codecov.io/gh/NOAA-GFDL/MOM6)
 
